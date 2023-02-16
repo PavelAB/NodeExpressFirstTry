@@ -1,0 +1,17 @@
+*{font-family: "Gill Sans", sans-serif;}
+.test{
+    display: flex;
+    flex-direction: row;
+
+}
+li{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    /* border: solid black 1px; */
+}
+.txt-slate{
+    color: darkslategray;
+
+}
